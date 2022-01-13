@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Text(
-                    'Chris Pratt',
+                    'Tammie Doe',
                     style: TextStyle(
                         fontFamily: 'Comfortaa',
                         fontWeight: FontWeight.bold,
@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                   SizedBox(height: 7.0),
                   Text(
-                    'China',
+                    'Nigeria',
                     style: TextStyle(
                         fontFamily: 'Comfortaa',
                         fontWeight: FontWeight.bold,
