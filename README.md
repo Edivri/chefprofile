@@ -1,4 +1,4 @@
 # chefprofile
 
 
-<img src="chef.png">
+<img src="assets/chef.png">
